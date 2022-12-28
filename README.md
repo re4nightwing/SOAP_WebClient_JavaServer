@@ -4,8 +4,7 @@ The Currency Converter Web service is made using java and it doesn't need databa
 
 <br>
 
-## Setup Server 
-#
+## Setup Server
 
 Server is created using java and the server reads currency data using a url there is no need for placing a .json file or a creating database. There are 2 ways to run the server. 
 
@@ -32,7 +31,6 @@ High Quality Image: https://images2.imgbox.com/55/69/eWQMIzPi_o.png
 <br>
 
 ## Setup Client Web Server
-#
 
 Client Application is made with flask framework.
 
@@ -54,7 +52,6 @@ $ pip install -r .\requirements.txt
 <br>
 
 ## How the application works
-#
 
 There are 2 web services in the web server.
 

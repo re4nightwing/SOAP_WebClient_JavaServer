@@ -1,4 +1,6 @@
-# Currency Converter Server-Client (Web Service - WSDLSOAP)
+<b>Reg. No.: AA1893</b>
+
+# Currency Converter Server-Client (Web Service - SOAP/WSDL)
 
 The Currency Converter Web service is made using java and it doesn't need database sevices as it reads the json file using a URL. The client application is created using flask framework as a web application.
 

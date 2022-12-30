@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pdf
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
